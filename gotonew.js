@@ -1,4 +1,3 @@
 gotonew
 newmaster
-newbranch
 gotonew
